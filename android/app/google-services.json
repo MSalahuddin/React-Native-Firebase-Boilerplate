@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "374013750140",
+    "firebase_url": "https://upworktest-2fbea.firebaseio.com",
+    "project_id": "upworktest-2fbea",
+    "storage_bucket": "upworktest-2fbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374013750140:android:b1512f589cd0a34f",
+        "android_client_info": {
+          "package_name": "com.expertizo.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374013750140-k9tm1akj2am5kprg2l7ce6vth9bs3887.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwVjKxN-i5J6pTzTL36OjD0duHyLoPkGU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
